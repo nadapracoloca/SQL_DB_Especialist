@@ -13,8 +13,8 @@ Lista dos bancos de dados contidos aqui
 
 - Branch "Modulo2_Desafio", estão os arquivos sobre o desafio apresentado no final do curso
 
-4- Desafio do Modulo 2(Contém README na branch main)
+4- Desafio do Modulo 2(Contém README)
 
 - Branch "Modulo2_ProjetoFinal", estão os arquivos sobre o ultimo projeto apresentado no modulo
 
-5- Projeto Final do Modulo 2(Contém README na branch main)
+5- Projeto Final do Modulo 2(Contém README)
